@@ -10,7 +10,7 @@ MIRNetV2: Learning Enriched Features for Fast Image Restoration and Enhancement
 
 采用MIRNetV2进行训练，然后将预测图片resize到(2048,1024)，进行8组预测，最后再将预测的结果拼接在一起，提升了很多性能
 
-## 2. 精度
+## 2. 模型的精度
 
 ## score	    psnr	        ms_ssim		
 ## 0.57	      20.32433	    0.93676	
