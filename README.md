@@ -5,6 +5,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此次大赛主题结合日常生活常见情景展开，当使用移动设备扫描获取文档的过程中，很多是文字、字母和数字等符号内容。通过拍摄截取等方式获取文档，就非常有可能导致内容模糊、噪音叠加等问题的发生，使得无法实际发挥作用。期望同学们通过计算机技术，帮助人们将模糊失焦的文档恢复清晰，提高使用便捷度和效率。  
 
+
+![image](https://user-images.githubusercontent.com/82042336/198624611-f413c196-cf50-4ff9-ac46-c586d91091ee.png)
+![image](https://user-images.githubusercontent.com/82042336/198624841-942524f7-c7a2-4fdc-8b36-2e2225264ddf.png)
+![image](https://user-images.githubusercontent.com/82042336/198625213-f5c82efc-f7a4-4764-8488-f814e9cd36ff.png)
+
+
 MIRNetV2: Learning Enriched Features for Fast Image Restoration and Enhancement  
 
 官方源码： [https://github.com/swz30/MIRNetV2](https://github.com/swz30/MIRNetV2)
