@@ -19,7 +19,7 @@ MIRNetV2: Learning Enriched Features for Fast Image Restoration and Enhancement
 
 ## 1. 项目描述
 
-采用MIRNetV2进行训练，然后将预测图片resize到(2048,1024)，进行8组预测，最后再将预测的结果拼接在一起，提升了很多性能
+采用MIRNetV2进行训练，然后将预测图片resize到(2048,1024)，进行8组预测，最后再将预测的结果拼接在一起，提升了很多性能。完整的方案见代码及ppt
 
 ## 2. 模型的精度
 
