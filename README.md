@@ -12,8 +12,8 @@ MIRNetV2: Learning Enriched Features for Fast Image Restoration and Enhancement
 
 ## 2. 精度
 
-score	psnr	     ms_ssim		
-0.57	20.32433	0.93676	
+## score	    psnr	        ms_ssim		
+## 0.57	      20.32433	    0.93676	
 
 ## 3. 文件结构
 
